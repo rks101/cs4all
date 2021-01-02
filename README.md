@@ -23,3 +23,9 @@ Some Core CS books:
 [System Programming wiki-book by Angrave](https://github.com/angrave/SystemProgramming/wiki)
 
 [Operating Systems - Three Easy Pieces by Remzi](http://pages.cs.wisc.edu/~remzi/OSTEP/) 
+
+----
+
+Some cool readings:  
+
+[High Performance Browser Networking](https://hpbn.co) by Ilya Grigorik 
