@@ -30,6 +30,8 @@ Some cool readings:
 
 [High Performance Browser Networking](https://hpbn.co) by Ilya Grigorik 
 
+[The Internet Myth](https://unglue.it/work/442013/)
+
 ----
 
 Nice visualizations:  
