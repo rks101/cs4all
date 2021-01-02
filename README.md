@@ -11,3 +11,7 @@ You can teach CS for yourself, literally. Explore [teachyourselfcs.com](https://
 A [Scripting Course](https://github.com/learnbyexample/scripting_course#ebooks) for primer on Linux, Scripting, Vim, Perl, etc. 
 
 Some [Free Programming Books](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books.html) for reference online. 
+
+
+Some Core CS books:
+[Computer Architecture - A Quantitative Approach, 5e by Hennessy and Patterson](http://acs.pub.ro/~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf)
