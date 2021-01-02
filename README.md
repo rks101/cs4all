@@ -24,6 +24,8 @@ Some Core CS books:
 
 [Operating Systems - Three Easy Pieces by Remzi](http://pages.cs.wisc.edu/~remzi/OSTEP/) 
 
+[Open Data Structures](https://opendatastructures.org/) 
+
 ----
 
 Some cool readings:  
