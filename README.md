@@ -12,6 +12,7 @@ A [Scripting Course](https://github.com/learnbyexample/scripting_course#ebooks) 
 
 Some [Free Programming Books](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books.html) for reference online. 
 
+----
 
 Some Core CS books:
 [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/) 
