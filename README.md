@@ -14,4 +14,6 @@ Some [Free Programming Books](https://ebookfoundation.github.io/free-programming
 
 
 Some Core CS books:
+[Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/) 
+
 [Computer Architecture - A Quantitative Approach, 5e by Hennessy and Patterson](http://acs.pub.ro/~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf)
