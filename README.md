@@ -29,3 +29,10 @@ Some Core CS books:
 Some cool readings:  
 
 [High Performance Browser Networking](https://hpbn.co) by Ilya Grigorik 
+
+----
+
+Nice visualizations:  
+
+[Submarine Cable Map](https://www.submarinecablemap.com) 
+
