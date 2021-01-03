@@ -42,3 +42,9 @@ MIT's [Scratch project](https://scratch.mit.edu/) to learn or teach basics of pr
 
 [Submarine Cable Map](https://www.submarinecablemap.com) to visualize Fibre cables connecting the world through internet 
 
+----
+
+Writing Tools to create Musical Docs
+
+LaTeX: [tutorial](https://www.latex-tutorial.com/tutorials/) 
+[Overleaf](overleaf.com) an online LaTeX editor 
