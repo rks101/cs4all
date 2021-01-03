@@ -40,5 +40,5 @@ Nice visualizations:
 
 MIT's [Scratch project](https://scratch.mit.edu/) to learn or teach basics of programming using drag and drop widgets 
 
-[Submarine Cable Map](https://www.submarinecablemap.com) 
+[Submarine Cable Map](https://www.submarinecablemap.com) to visualize Fibre cables connecting the world through internet 
 
