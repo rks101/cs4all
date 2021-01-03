@@ -44,7 +44,8 @@ MIT's [Scratch project](https://scratch.mit.edu/) to learn or teach basics of pr
 
 ----
 
-Writing Tools to create Musical Docs
+Writing Tools to create Musical Docs  
 
-LaTeX: [tutorial](https://www.latex-tutorial.com/tutorials/) 
-[Overleaf](overleaf.com) an online LaTeX editor 
+LaTeX: [tutorial](https://www.latex-tutorial.com/tutorials/)  
+[Overleaf](overleaf.com) - an online LaTeX editor  
+[Latexsheet](http://wch.github.io/latexsheet/latexsheet-a4.pdf)  
