@@ -34,6 +34,8 @@ Some cool readings:
 
 [The Internet Myth](https://unglue.it/work/442013/)
 
+[Tomorrow's Professor](https://tomprof.stanford.edu/) - an eNewsletter, 100 times a year 
+
 ----
 
 Nice visualizations:  
