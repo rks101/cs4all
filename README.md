@@ -44,6 +44,8 @@ MIT's [Scratch project](https://scratch.mit.edu/) to learn or teach basics of pr
 
 [Submarine Cable Map](https://www.submarinecablemap.com) to visualize Fibre cables connecting the world through internet 
 
+[Julia's Drawings](https://drawings.jvns.ca/) - a comic take on Computer Science related topics  
+
 ----
 
 Writing Tools to create Musical Docs  
