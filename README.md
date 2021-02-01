@@ -55,10 +55,16 @@ LaTeX: [tutorial](https://www.latex-tutorial.com/tutorials/)
 [Latexsheet](http://wch.github.io/latexsheet/latexsheet-a4.pdf)  
 
 **Note on Bibliography**  
-Make sure .tex, .bib, and .bst files are in the same directory. The following sequence can be handy. 
+Make sure .tex (mani latex source), .bib (bibliography entries), and .bst (bibliography style) files are in the same directory. The following sequence can be handy. 
 
 ```
-% add bibliographystyle required for iet.bst
+\documentclass{article}
+%\documentclass{cta-author}
+
+% premble for packages
+\usepackage{hyperref}
+
+% add bibliographystyle required for example iet.bst
 \bibliographystyle{iet}
 
 \title
@@ -74,7 +80,7 @@ Make sure .tex, .bib, and .bst files are in the same directory. The following se
 ...
 
 % add bibliography .bib file name without file extension .bib
-\bibliography{bibli}
+\bibliography{mybib}
 
 \end{document}
 ```
