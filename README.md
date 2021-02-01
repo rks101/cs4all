@@ -53,3 +53,28 @@ Writing Tools to create Musical Docs
 LaTeX: [tutorial](https://www.latex-tutorial.com/tutorials/)  
 [Overleaf](overleaf.com) - an online LaTeX editor  
 [Latexsheet](http://wch.github.io/latexsheet/latexsheet-a4.pdf)  
+
+**Note on Bibliography**  
+Make sure .tex, .bib, and .bst files are in the same directory. The following sequence can be handy. 
+
+```
+% add bibliographystyle required for iet.bst
+\bibliographystyle{iet}
+
+\title
+
+\begin{abstract}
+\end{abstract}
+
+\begin{document}
+
+\maketitle
+
+\section
+...
+
+% add bibliography .bib file name without file extension .bib
+\bibliography{bibli}
+
+\end{document}
+```
