@@ -7,6 +7,8 @@ Irrespective of the background, feel free to explore a course [CS50](https://cs5
 Prof David is awesome to introduce concepts, engage the students and the energy level is that you would like. The best things in the world are free!  
 Notice how he uses two laptops, two displays with a switcher and bit-bulbs.   
 
+Whether you are a sophomore or a senior undergrad or a fresh student into the college for a UG/PG degree, without any bias or hesitation, you can take this lovely course [CS50's Understanding Technology](https://cs50.harvard.edu/technology/2017/).    
+
 ----
 
 You can teach CS for yourself, literally. Explore [teachyourselfcs.com](https://teachyourselfcs.com)
