@@ -9,6 +9,7 @@ Prof David is awesome to introduce concepts, engage the students and the energy 
 Whether you are a sophomore or a senior undergrad or a fresh student into the college for a UG/PG degree, without any bias or hesitation, you can take this lovely course [CS50's Understanding Technology](https://cs50.harvard.edu/technology/2017/).    
 
 Note:- If you are using a computer desktop, laptop, tablet or phone for more than 3 hours or more every day, repetitive strain injury may affect your fingers, wrists, neck, back, and eyes. Merely a bad posture, if ignored for long, can cause fatigue and pain later. Please take a break often, do exercises, stretches and this page from [Princeton UHS](https://uhs.princeton.edu/health-resources/ergonomics-computer-use) can help in simple reflexes, especially watch videos under section **Desk Stretching Exercises**.      
+
 ----
 
 You can teach CS for yourself, literally. Explore [teachyourselfcs.com](https://teachyourselfcs.com)
