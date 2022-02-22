@@ -55,6 +55,12 @@ MIT's [Scratch project](https://scratch.mit.edu/) to learn or teach basics of pr
 
 ----
 
+My [eglinux](https://github.com/rks101/eglinux) repo for a little practical Linux hands-on.    
+[egnet](https://github.com/rks101/egnet) repo for a little practical networking hands-on.    
+[CImpl](https://github.com/rks101/Cimpl) repo for a continuous stream of examples and questions.    
+
+---- 
+
 Writing Tools to create Musical Docs  
 
 LaTeX: [tutorial](https://www.latex-tutorial.com/tutorials/)  
