@@ -53,6 +53,8 @@ MIT's [Scratch project](https://scratch.mit.edu/) to learn or teach basics of pr
 
 [Julia's Drawings](https://drawings.jvns.ca/) - a comic take on Computer Science related topics  
 
+[Flavio's bootcamp](https://bootcamp.dev/) for serious to-be-wanna full-stack web developers.    
+
 ----
 
 My [eglinux](https://github.com/rks101/eglinux) repo for a little practical Linux hands-on.    
