@@ -18,7 +18,9 @@ You can teach CS for yourself, literally. Explore [teachyourselfcs.com](https://
 
 A [Scripting Course](https://github.com/learnbyexample/scripting_course#ebooks) for primer on Linux, Scripting, Vim, Perl, etc. 
 
-Some [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) available online for reference. 
+Some [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) available online for reference.   
+
+After the first CS or programming course, you can refer [CS Video Courses](https://github.com/Developer-Y/cs-video-courses).   
 
 ----
 
