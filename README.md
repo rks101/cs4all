@@ -63,6 +63,7 @@ MIT's [Scratch project](https://scratch.mit.edu/) to learn or teach basics of pr
 ----
 
 [As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) by Vannevar Bush (1945) to foresee the future world and man-made machines.    
+[Paul Baran, 1964](https://www.rand.org/pubs/research_memoranda/RM3097.html) a series of memoranda on distributed communications.    
 
 ----
 
