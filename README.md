@@ -59,6 +59,10 @@ MIT's [Scratch project](https://scratch.mit.edu/) to learn or teach basics of pr
 
 ----
 
+[As We May Think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/) by Vannevar Bush (1945) to foresee the future world and man-made machines.    
+
+----
+
 My [eglinux](https://github.com/rks101/eglinux) repo for a little practical Linux hands-on.    
 [egnet](https://github.com/rks101/egnet) repo for a little practical networking hands-on.    
 [CImpl](https://github.com/rks101/Cimpl) repo for a continuous stream of examples and questions.    
