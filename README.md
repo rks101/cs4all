@@ -56,6 +56,8 @@ MIT's [Scratch project](https://scratch.mit.edu/) to learn or teach basics of pr
 
 [Submarine Cable Map](https://www.submarinecablemap.com) to visualize Fibre cables connecting the world through internet   
 
+[CO_2 Emissions](https://ourworldindata.org/grapher/co-emissions-per-capita?tab=chart) See chart, map, tabular data and other settings you can play with   
+
 [Julia's Drawings](https://drawings.jvns.ca/) - a comic take (zines) on Computer Science related topics   
 
 [Flavio's bootcamp](https://bootcamp.dev/) for serious to-be-wanna full-stack web developers.    
