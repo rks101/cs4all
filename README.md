@@ -48,6 +48,8 @@ Some cool readings:
 
 [Tomorrow's Professor](https://tomprof.stanford.edu/) - an eNewsletter, 100 times a year 
 
+[Interesting Time Formatting and Storage bugs](https://en.wikipedia.org/wiki/Time_formatting_and_storage_bugs), like Y2K38 and GPS week rollover    
+
 ----
 
 Nice visualizations:  
