@@ -26,6 +26,14 @@ After the first CS or programming course, you can refer [CS Video Courses](https
 
 [RUST programming for beginners](https://www.freecodecamp.org/news/rust-programming-course-for-beginners/)    
 
+---- 
+
+**First programming language**   
+
+Often, this question is brought up around curriculum rejig or for new first-year admissions - what should be the first programming language that should be taught at the campus to new undergrads?   
+
+A: Rather than teaching a single programming language itself to first-year undergrads (mostly common for all students or for a mix of disciplines), we can pick up something that teaches problem-solving and helps to visualize the bare-bone structure of programs. We can start with Scratch drag-and-drop, then introduce any interpreter (without an IDE/GUI) or an online playground, followed by solving problems using C or Scheme. In the last part, we can introduce some web programming interfaces using online playgrounds and, finally, a scripting language. In this, we should pick problems around us, create an abstraction for smaller tasks, and try to find solutions using code.     
+
 ----
 
 Some Core CS books:   
@@ -73,17 +81,21 @@ MIT's [Scratch project](https://scratch.mit.edu/) to learn or teach the basics o
 
 ----
 
-My [eglinux](https://github.com/rks101/eglinux) repo for a little practical Linux hands-on.    
-[egnet](https://github.com/rks101/egnet) repo for a little practical hands-on networking.    
-[CImpl](https://github.com/rks101/Cimpl) repo for a continuous stream of examples and questions.    
-[webapps](https://github.com/rks101/webapps) repo for online playgrounds and helpful pointers.    
+My [eglinux](https://github.com/rks101/eglinux) repo for a little practical Linux hands-on.   
+[egnet](https://github.com/rks101/egnet) repo for a little practical hands-on networking.   
+[CImpl](https://github.com/rks101/Cimpl) repo for a continuous stream of examples and questions.   
+[webapps](https://github.com/rks101/webapps) repo for online playgrounds and helpful pointers.   
 
 ---- 
 
-Writing tools to create Musical Docs  
+Writing tools to create Musical Docs   
+
+Students and developers should inculcate a habit of writing notes for issues encountered and helping themselves and others. Most of my pages have come online because I wanted these notes to be available to me anytime, anywhere, or someone asked me the same questions over time.    
+
+Like online GitHub pages, you can learn Latex quickly and create nice presentations.    
 
 LaTeX: [tutorial](https://www.latex-tutorial.com/tutorials/)  
-[Overleaf](overleaf.com) - an online LaTeX editor  
+[Overleaf](overleaf.com) - an online LaTeX editor that is very handy without the hassle of installing locally on the laptop/desktop.   
 [Latexsheet](http://wch.github.io/latexsheet/latexsheet-a4.pdf)  
 
 My [Latex notes](https://github.com/rks101/latex)   
