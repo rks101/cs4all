@@ -101,3 +101,12 @@ LaTeX: [tutorial](https://www.latex-tutorial.com/tutorials/)
 My [Latex notes](https://github.com/rks101/latex)   
 
 ----
+
+Mathematics and learning have closely associated topics for computer scientists.     
+
+---- 
+
+New applications     
+
+[10,000 feet overview of Machine Learning](https://www.lifewire.com/what-is-machine-learning-7495518)    
+
