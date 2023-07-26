@@ -12,6 +12,8 @@ Whether you are a sophomore or a senior undergrad, or a fresh student in the col
 
 Note:- Your health is very important, especially your eyes, neck, back, fingers, and wrists if type a lot. If you are using a computer desktop, laptop, tablet, or phone for more than 3 hours or more every day, repetitive strain injury may affect your fingers, wrists, neck, back, and eyes. Merely a bad posture, if ignored for a long, can cause fatigue and pain later. Please take a break often, and do exercises and stretches. This page from [Princeton UHS](https://uhs.princeton.edu/health-resources/ergonomics-computer-use) can help in simple reflexes, especially watching videos under the section **Desk Stretching Exercises**.      
 
+[First Principle thinking](https://fs.blog/first-principles/)   
+
 ----
 
 You can teach CS for yourself, literally. Explore [teachyourselfcs.com](https://teachyourselfcs.com)
