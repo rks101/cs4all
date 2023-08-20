@@ -4,7 +4,7 @@ Computer Science and Engineering are for all to learn, explore and enable intere
 We explore and share pointers on how to get started quickly and continue a self-paced journey.   
 
 Regardless of the background, you can explore a course [CS50](https://cs50.harvard.edu/) by Prof David Malan (.../2021/2022).   
-Prof David is awesome at introducing concepts and engaging the students. Malan's energy level keeps you connected, and it is that you will love and remember. The best things in the world are free! Notice how he uses two laptops, two displays with a switcher, and bit-bulbs are fun.   
+Prof David is awesome at introducing concepts and engaging the students. Malan's energy level keeps you connected, and it is that you will love and remember. The best part is: it is free! Notice how he uses two laptops, two displays with a switcher, and bit-bulbs are fun.   
 
 Whether you are a sophomore or a senior undergrad, or a fresh student in the college for a UG/PG degree, without any hesitation, you can take this lovely course [CS50's Understanding Technology](https://cs50.harvard.edu/technology/2017/). You should also explore [CS50 CyberSecurity live course](https://www.youtube.com/watch?v=U8Bki7QEz2M).    
 
