@@ -7,8 +7,6 @@ Whether you are a sophomore, a senior undergrad, or a fresh student for a colleg
 
 Note:- Your health is very important, especially your eyes, neck, back, fingers, and wrists, while you type a lot on computing devices. If you use a computer desktop, laptop, tablet, or phone for more than 3 hours or more daily, repetitive strain injury (RSI) may affect your fingers, wrists, neck, back, and eyes. Merely a bad and fixed posture can cause fatigue and pain in later years if ignored for a long time. Please take a break often (from work, studies, city), and do exercises and stretches. This page from [Princeton UHS](https://uhs.princeton.edu/health-resources/ergonomics-computer-use) can help in simple reflexes, especially watching videos under the section **Desk Stretching Exercises** (you may need to fix the loading of Kaltura videos in your browser).      
 
-[First Principle thinking](https://fs.blog/first-principles/)    
-
 ----
 
 You can teach CS for yourself, literally. Explore [teachyourselfcs.com](https://teachyourselfcs.com)
@@ -23,9 +21,12 @@ After the first CS or programming course, refer to [CS Video Courses](https://gi
 
 [RUST programming for beginners](https://www.freecodecamp.org/news/rust-programming-course-for-beginners/)    
 
-On too much content or resources available:    
-People may experience too-much-stuff-syndrome. Great content can help you learn better, so you must filter great content from not-so-great content! While learning cybersecurity topics, you may get lost in [Try Hack Me](https://tryhackme.com/). The same goes for algorithms, computer networking, and operating systems. Plan for a month or a quarter, and then return to topics that interest you. 
-You should write and share pages like these too :) Writing online is a great habit and rewarding too.    
+[Harold Abelson's video lectures on Structure And Interpretation Of Computer Programs and beyond](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)     
+
+[First Principle thinking](https://fs.blog/first-principles/)    
+
+**On too many resources available online**:    
+People may experience too-much-stuff-syndrome. Great content can help you learn better, so you must filter great content from not-so-great content! While learning cybersecurity topics, you may get lost in [Try Hack Me](https://tryhackme.com/). The same goes for algorithms, computer networking, and operating systems. Plan for a month or a quarter, and then return to topics that interest you. You should write and share pages like these too :) Writing online is a great habit and rewarding too. I started on GitHub with self-reference notes; in less than a year, there was something to share.    
 
 ---- 
 
@@ -103,8 +104,6 @@ My [Latex notes](https://github.com/rks101/latex)
 ----
 
 Mathematics and learning have closely associated topics for computer scientists.     
-
-[Harold Ableson's videos on Scheme and beyond]()    
 
 ---- 
 
