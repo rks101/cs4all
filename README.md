@@ -6,13 +6,13 @@ We explore and share pointers on how to get started quickly and continue a self-
 Regardless of the background, you can explore a course [CS50](https://cs50.harvard.edu/) by Prof David Malan (.../2021/2022).   
 Prof David is awesome at introducing concepts and engaging the students. Malan's energy level keeps you connected, and it is that you will love and remember. The best part is: it is free! Notice how he uses two laptops, two displays with a switcher, and bit-bulbs are fun.   
 
-Whether you are a sophomore or a senior undergrad, or a fresh student in the college for a UG/PG degree, without any hesitation, you can take this lovely course [CS50's Understanding Technology](https://cs50.harvard.edu/technology/2017/). You should also explore [CS50 CyberSecurity live course](https://www.youtube.com/watch?v=U8Bki7QEz2M).    
+Whether you are a sophomore, a senior undergrad, or a fresh student for a college degree, without any hesitation, you can take this lovely course [CS50's Understanding Technology](https://cs50.harvard.edu/technology/2017/). You should also explore [CS50 CyberSecurity live course](https://www.youtube.com/watch?v=U8Bki7QEz2M).     
 
-[Software Construction](https://web.mit.edu/6.005/www/fa15/) course at MIT Fall 2015.   
+[Software Construction](https://web.mit.edu/6.005/www/fa15/) course at MIT Fall 2015 is interesting and covers good ground.   
 
-Note:- Your health is very important, especially your eyes, neck, back, fingers, and wrists if type a lot. If you are using a computer desktop, laptop, tablet, or phone for more than 3 hours or more every day, repetitive strain injury may affect your fingers, wrists, neck, back, and eyes. Merely a bad posture, if ignored for a long, can cause fatigue and pain later. Please take a break often, and do exercises and stretches. This page from [Princeton UHS](https://uhs.princeton.edu/health-resources/ergonomics-computer-use) can help in simple reflexes, especially watching videos under the section **Desk Stretching Exercises**.      
+Note:- Your health is very important, especially your eyes, neck, back, fingers, and wrists, while you type a lot on computing devices. If you use a computer desktop, laptop, tablet, or phone for more than 3 hours or more daily, repetitive strain injury (RSI) may affect your fingers, wrists, neck, back, and eyes. Merely a bad and fixed posture can cause fatigue and pain in later years if ignored for a long time. Please take a break often (from work, studies, city), and do exercises and stretches. This page from [Princeton UHS](https://uhs.princeton.edu/health-resources/ergonomics-computer-use) can help in simple reflexes, especially watching videos under the section **Desk Stretching Exercises** (you may need to fix the loading of Kaltura videos in your browser).      
 
-[First Principle thinking](https://fs.blog/first-principles/)   
+[First Principle thinking](https://fs.blog/first-principles/)    
 
 ----
 
@@ -24,7 +24,7 @@ A [Scripting Course](https://github.com/learnbyexample/scripting_course#ebooks) 
 
 Some [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) are available online for reference.   
 
-After the first CS or programming course, you can refer [CS Video Courses](https://github.com/Developer-Y/cs-video-courses).   
+After the first CS or programming course, refer to [CS Video Courses](https://github.com/Developer-Y/cs-video-courses).   
 
 [RUST programming for beginners](https://www.freecodecamp.org/news/rust-programming-course-for-beginners/)    
 
@@ -32,9 +32,9 @@ After the first CS or programming course, you can refer [CS Video Courses](https
 
 **First programming language**   
 
-Often, this question is brought up around curriculum rejig or for new first-year admissions - what should be the first programming language that should be taught at the campus to new undergrads?   
+Q. Often, this question is brought up around curriculum rejig or for new first-year admissions - what should be the first programming language that should be taught at the campus to new undergrads?   
 
-A: Rather than teaching a single programming language itself to first-year undergrads (mostly common for all students or for a mix of disciplines), we can pick up something that teaches problem-solving and helps to visualize the bare-bone structure of programs. We can start with Scratch drag-and-drop, then introduce any interpreter (without an IDE/GUI) or an online playground, followed by solving problems using C or Scheme. In the last part, we can introduce some web programming interfaces using online playgrounds and, finally, a scripting language. In this, we should pick problems around us, create an abstraction for smaller tasks, and try to find solutions using code.     
+A. Rather than teaching a single programming language to first-year undergrads (mostly common for all students or for a mix of disciplines), we can pick up something that teaches problem-solving and helps visualize the bare-bone structure of programs. We can start with Scratch drag-and-drop, then introduce any interpreter (without an IDE/GUI) or an online playground, then solve problems using C or Scheme. In the last part, we can introduce some web programming interfaces using online playgrounds and, finally, a scripting language. In this initial journey, we should pick problems around us, create an abstraction for smaller tasks, and try to find solutions using code. For students: developing logic is more important than how many programs you write daily.      
 
 ----
 
