@@ -95,15 +95,16 @@ Students and developers should inculcate a habit of writing notes for issues enc
 
 Like online GitHub pages, you can learn Latex quickly and create nice presentations.    
 
-LaTeX: [tutorial](https://www.latex-tutorial.com/tutorials/)  
-[Overleaf](overleaf.com) - an online LaTeX editor that is very handy without the hassle of installing locally on the laptop/desktop.   
-[Latexsheet](http://wch.github.io/latexsheet/latexsheet-a4.pdf)  
+LaTeX: [tutorial](https://www.latex-tutorial.com/tutorials/) and a [Latexsheet](http://wch.github.io/latexsheet/latexsheet-a4.pdf).    
+[Overleaf](overleaf.com) - an online LaTeX editor that is very handy without the hassle of installing locally on the laptop/desktop. Free and Student versions of Overleaf are great too.    
 
 My [Latex notes](https://github.com/rks101/latex)   
 
 ----
 
 Mathematics and learning have closely associated topics for computer scientists.     
+
+[Harold Ableson's videos on Scheme and beyond]()    
 
 ---- 
 
