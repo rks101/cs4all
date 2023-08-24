@@ -111,3 +111,6 @@ New applications
 
 [10,000 feet overview of Machine Learning](https://www.lifewire.com/what-is-machine-learning-7495518)    
 
+[F1 Score](https://www.picsellia.com/post/understanding-the-f1-score-in-machine-learning-the-harmonic-mean-of-precision-and-recall)     
+
+
