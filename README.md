@@ -113,4 +113,4 @@ New applications
 
 [F1 Score](https://www.picsellia.com/post/understanding-the-f1-score-in-machine-learning-the-harmonic-mean-of-precision-and-recall)     
 
-
+[Lab Etiquettes](https://www.cfilt.iitb.ac.in/lab_manual.pdf)    
