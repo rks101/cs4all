@@ -114,3 +114,7 @@ New applications
 [F1 Score](https://www.picsellia.com/post/understanding-the-f1-score-in-machine-learning-the-harmonic-mean-of-precision-and-recall)     
 
 [Lab Etiquettes](https://www.cfilt.iitb.ac.in/lab_manual.pdf)    
+
+[Equitable AI](https://www.gatesfoundation.org/ideas/science-innovation-technology/artificial-intelligence)     
+
+[Can we draw such diagram using code/markup text/latex/tikz](https://onlinepublichealth.gwu.edu/resources/equity-vs-equality/)     
