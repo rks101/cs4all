@@ -38,17 +38,21 @@ A. Rather than teaching a single programming language to first-year undergrads (
 
 ----
 
-Some Core CS books:   
+Some relevant Core CS books:   
 
-[Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/) 
+[Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)    
 
-[Computer Architecture - A Quantitative Approach, 5e by Hennessy and Patterson](http://acs.pub.ro/~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf)
+[Computer Architecture - A Quantitative Approach, by Hennessy and Patterson](http://acs.pub.ro/~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf)   
 
-[System Programming wiki-book by Angrave](https://github.com/angrave/SystemProgramming/wiki)
+[System Programming wiki-book by Angrave](https://github.com/angrave/SystemProgramming/wiki)    
 
-[Operating Systems - Three Easy Pieces by Remzi](http://pages.cs.wisc.edu/~remzi/OSTEP/) 
+[Operating Systems - Three Easy Pieces by Remzi](http://pages.cs.wisc.edu/~remzi/OSTEP/)    
 
-[Open Data Structures](https://opendatastructures.org/) 
+[Computer Networking - A Top-Down Approach by Kurose and Ross](https://gaia.cs.umass.edu/kurose_ross/index.php), see online resources - lecture videos, ppts, and labs.    
+
+[Computer and Internet Security by Wenliang Du](), see [SEED Labs and online lectures](https://seedsecuritylabs.org/).    
+
+[Open Data Structures](https://opendatastructures.org/)     
 
 ----
 
