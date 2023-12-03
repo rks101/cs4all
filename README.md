@@ -125,3 +125,6 @@ New applications
 [Equitable AI](https://www.gatesfoundation.org/ideas/science-innovation-technology/artificial-intelligence)     
 
 [Can we draw such diagram using code/markup text/latex/tikz](https://onlinepublichealth.gwu.edu/resources/equity-vs-equality/)     
+
+
+[John Doe](https://en.wikipedia.org/wiki/John_Doe).    
