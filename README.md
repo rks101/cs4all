@@ -1,3 +1,6 @@
+Content on this page requires formatting and ordering.     
+
+
 # cs4all
 Computer Science and Engineering are for all to learn, explore and enable interesting innovations - the most important one is **problem solving**. We explore and share pointers on how to get started quickly and continue a self-paced journey.   
 
