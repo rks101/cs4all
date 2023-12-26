@@ -110,7 +110,11 @@ My [Latex notes](https://github.com/rks101/latex)
 
 ----
 
-Mathematics and learning have closely associated topics for computer scientists.     
+Mathematics and learning are closely associated topics for computer scientists.     
+
+Can we build a prototype to [model and display mathematics on-screen step-by-step](https://www.wolframalpha.com/examples/mathematics)? See the link from Wolfram Alpha > Examples > Mathematics.     
+
+Statistics, Probability, Approximation, Optimization, limits, transformations, longitudinal or historical data queries, compute-intensive tasks, network bandwidth-guzzling tasks, behavior modeling, etc., have paved the way for modern learning and visualization applications in Computer Science.      
 
 ---- 
 
@@ -120,11 +124,14 @@ New applications
 
 [F1 Score](https://www.picsellia.com/post/understanding-the-f1-score-in-machine-learning-the-harmonic-mean-of-precision-and-recall)     
 
-[Lab Etiquettes](https://www.cfilt.iitb.ac.in/lab_manual.pdf)    
-
 [Equitable AI](https://www.gatesfoundation.org/ideas/science-innovation-technology/artificial-intelligence)     
 
-[Can we draw such diagram using code/markup text/latex/tikz](https://onlinepublichealth.gwu.edu/resources/equity-vs-equality/)     
+[Can we draw such a diagram using code/markup text/latex/tikz](https://onlinepublichealth.gwu.edu/resources/equity-vs-equality/)     
 
+---- 
+
+Trivia    
 
 [John Doe](https://en.wikipedia.org/wiki/John_Doe).    
+
+[Lab Etiquettes](https://www.cfilt.iitb.ac.in/lab_manual.pdf)    
