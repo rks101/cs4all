@@ -134,4 +134,6 @@ Trivia
 
 [John Doe](https://en.wikipedia.org/wiki/John_Doe).    
 
+[What is the difference between a dissertation and a thesis?](https://www.grammarly.com/blog/dissertation-thesis/)     
+
 [Lab Etiquettes](https://www.cfilt.iitb.ac.in/lab_manual.pdf)    
