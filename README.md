@@ -137,3 +137,6 @@ Trivia
 [What is the difference between a dissertation and a thesis?](https://www.grammarly.com/blog/dissertation-thesis/)     
 
 [Lab Etiquettes](https://www.cfilt.iitb.ac.in/lab_manual.pdf)    
+
+[Code Refactoring led to Anti-Pattern in Software Engineering](https://sourcemaking.com/antipatterns)     
+
