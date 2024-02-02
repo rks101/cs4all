@@ -92,31 +92,38 @@ MIT's [Scratch project](https://scratch.mit.edu/) to learn or teach the basics o
 
 ----
 
-My [eglinux](https://github.com/rks101/eglinux) repo for a little practical Linux hands-on.   
+My notes :)    
+
+Students and developers should inculcate a habit of writing notes for issues encountered and helping themselves and others. Most of my pages have come online because I wanted these notes to be available to me anytime, anywhere, or if someone asked me these questions over time.    
+
+[eglinux](https://github.com/rks101/eglinux) repo for a little practical Linux hands-on.   
 [egnet](https://github.com/rks101/egnet) repo for a little practical hands-on networking.   
 [CImpl](https://github.com/rks101/Cimpl) repo for a continuous stream of examples and questions.   
 [webapps](https://github.com/rks101/webapps) repo for online playgrounds and helpful pointers.   
+[isdp](https://github.com/rks101/isdp) repo for a little practical Information Security and Data Privacy matters. It matters :)    
 
 ---- 
 
 Writing tools to create Musical Docs   
-
-Students and developers should inculcate a habit of writing notes for issues encountered and helping themselves and others. Most of my pages have come online because I wanted these notes to be available to me anytime, anywhere, or someone asked me the same questions over time.    
 
 Like online GitHub pages, you can learn Latex quickly and create nice presentations.    
 
 LaTeX: [tutorial](https://www.latex-tutorial.com/tutorials/) and a [Latexsheet](http://wch.github.io/latexsheet/latexsheet-a4.pdf).    
 [Overleaf](overleaf.com) - an online LaTeX editor that is very handy without the hassle of installing locally on the laptop/desktop. Free and Student versions of Overleaf are great too.    
 
-My [Latex notes](https://github.com/rks101/latex)   
+[LaTeX notes](https://github.com/rks101/latex)   
 
 ----
 
 Mathematics and learning are closely associated topics for computer scientists.     
 
+Check [3blue1brown videos](https://www.youtube.com/@3blue1brown) if mathematics and visualization interest you, like this [e^(iπ)](https://www.youtube.com/watch?v=v0YEaeIClKY).    
+
 Can we build a prototype to [model and display mathematics on-screen step-by-step](https://www.wolframalpha.com/examples/mathematics)? See the link from Wolfram Alpha > Examples > Mathematics.     
 
 Statistics, Probability, Approximation, Optimization, limits, transformations, longitudinal or historical data queries, compute-intensive tasks, network bandwidth-guzzling tasks, behavior modeling, etc., have paved the way for modern learning and visualization applications in Computer Science.      
+
+
 
 ---- 
 
