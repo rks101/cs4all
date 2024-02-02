@@ -16,7 +16,7 @@ You can teach CS for yourself, literally. Explore [teachyourselfcs.com](https://
 
 [OSSU](https://github.com/ossu/computer-science) shows a path to self-taught and self-paced education in Computer Science. There is a curated curriculum, fundamental concepts in Core CS, and a platform for discussion with other students. 
 
-A [Scripting Course](https://github.com/learnbyexample/scripting_course#ebooks) for a primer on Linux, Scripting, Vim, Perl, etc. 
+A [Scripting Course](https://github.com/learnbyexample/scripting_course#ebooks) offers a primer on Linux, Scripting, Vim, Perl, etc. 
 
 Some [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) are available online for reference.   
 
