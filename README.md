@@ -153,7 +153,7 @@ Trivia
 
 Comp-institutional Memory    
 
-[Alan Turing's paper in 1936 on computability](https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf) and [Alonzo Church's paper in 1935 on effective calculability and recursion](https://ics.uci.edu/~lopes/teaching/inf212W12/readings/church.pdf)     
+[Alan Turing's paper in 1936 on computability](https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf) and [Alonzo Church's paper in 1935 on effective calculability and recursion](https://ics.uci.edu/~lopes/teaching/inf212W12/readings/church.pdf). [Lambada definable functions](https://builds.openlogicproject.org/content/lambda-calculus/lambda-definability/lambda-definability.pdf).      
 
 [Vint Cerf and Robert Kahn after 50 years of TCP/IP](https://www.purdue.edu/president/lecture-series/a-conversation-with-internet-founders-vint-cerf-and-robert-kahn-and-purdue-president-mung-chiang/) and their [1974 paper on packet network](https://www.cs.princeton.edu/courses/archive/fall06/cos561/papers/cerf74.pdf)     
 
