@@ -43,6 +43,12 @@ A. Rather than teaching a single programming language to first-year undergrads (
 
 ----
 
+Inspiration
+
+
+
+---- 
+
 Some relevant Core CS books:   
 
 [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)    
