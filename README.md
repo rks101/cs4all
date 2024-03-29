@@ -155,6 +155,11 @@ Trivia
 
 [Code Refactoring led to Anti-Pattern in Software Engineering](https://sourcemaking.com/antipatterns)     
 
+[How long will AES last?](https://www.reddit.com/r/cryptography/comments/13lp9nf/how_many_decades_aes128_will_last/?rdt=50753)     
+[Calculate time taken to break AES](https://security.stackexchange.com/questions/82389/calculate-time-taken-to-break-aes-key)    
+[How secure is AES against brute-force attacks](https://www.eetimes.com/how-secure-is-aes-against-brute-force-attacks/)    
+[Encryption and Privacy](https://www.eetimes.com/its-time-to-end-the-encryption-wars/)    
+
 ---- 
 
 Comp-institutional Memory    
