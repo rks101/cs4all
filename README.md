@@ -161,6 +161,10 @@ Breaking AES
 - [How secure is AES against brute-force attacks](https://www.eetimes.com/how-secure-is-aes-against-brute-force-attacks/)    
 - [Encryption and Privacy](https://www.eetimes.com/its-time-to-end-the-encryption-wars/)    
 
+[AES - Decrypt text for URLs](https://www.devglan.com/online-tools/aes-encryption-decryption)    
+
+[Bit Coin addresses use an interesting encoding](https://en.wikipedia.org/wiki/Binary-to-text_encoding#/media/File:Original_source_code_bitcoin-version-0.1.0_file_base58.h.png) instead of popular [Base64 encoding](https://en.wikipedia.org/wiki/Base64)    
+
 ---- 
 
 Comp-institutional Memory    
