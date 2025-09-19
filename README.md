@@ -43,9 +43,9 @@ A. Rather than teaching a single programming language to first-year undergrads (
 
 ----
 
-Inspiration
+Inspiration    
 
-
+Start [writing such README.md markup files](https://www.markdownguide.org/basic-syntax/)     
 
 ---- 
 
